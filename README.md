@@ -35,7 +35,7 @@ We got a lot of exposure in Game Development using JavaScript. Also we documente
   </tr>
   <tr>
     <td>Main Page</td>
-    <td><img src="https://github.com/akshatsood2025/Snakes-and-Hackers-II/blob/main/images/planets-names.png" width="625" height="350"></td>
+    <td><img src="https://github.com/akshatsood2026/Snakes-and-Hackers-II/blob/main/images/planets-names.png" width="625" height="350"></td>
   </tr>
   <tr>
     <td>TicTacToe</td>
@@ -60,7 +60,7 @@ We got a lot of exposure in Game Development using JavaScript. Also we documente
 We believe that this Project possesses tremendous potential and can be taken forward. Time Clock can be added along with escalation in game difficulties. Also we need not restrict to only 4 planets and incorporate new games spanning numerous categories. As a future work we can work upon adding multiplayer and chat capabilities to enhance robustness of the project.
 
 ## Process to use
-1. Clone the repository using `git clone https://github.com/akshatsood2025/Snakes-and-Hackers-II.git`
+1. Clone the repository using `git clone https://github.com/akshatsood2026/Snakes-and-Hackers-II.git`
 2. `cd Snakes-and-Hackers-II`
 3. Execute index.html in your browser
 
