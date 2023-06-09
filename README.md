@@ -34,7 +34,7 @@ We got lot of exposure in Game Development using JavaScript
   </tr>
   <tr>
     <td>Main Page</td>
-    <td><img src="https://github.com/akshatsood2026/Snakes-and-Hackers-II/blob/main/images/planets-names.png" width="625" height="350"></td>
+    <td><img src="https://github.com/akshatsood2026/Snakes-and-Hackers-II/blob/main/images/planets-names.png" width="750" height="350"></td>
   </tr>
   <tr>
     <td>TicTacToe</td>
