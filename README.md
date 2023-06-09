@@ -38,19 +38,19 @@ We got lot of exposure in Game Development using JavaScript
   </tr>
   <tr>
     <td>TicTacToe</td>
-    <td><img src="https://user-images.githubusercontent.com/56976049/184529134-811264df-fc01-433d-96c9-bb06fc559a18.png" width="400" height="350"></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/56976049/184529134-811264df-fc01-433d-96c9-bb06fc559a18.png" width="400" height="350"></td>
   </tr>
   <tr>
     <td>BreakDown</td>
-    <td><img src="https://user-images.githubusercontent.com/56976049/184529142-40373a3b-b94c-458b-bd49-71fdf7e0ea0a.png" width="400" height="350"></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/56976049/184529142-40373a3b-b94c-458b-bd49-71fdf7e0ea0a.png" width="400" height="350"></td>
   </tr>
   <tr>
     <td>Connect 4</td>
-    <td><img src="https://user-images.githubusercontent.com/56976049/184529148-8fe91d60-2388-4561-ade8-b01e04e354c2.png" width="400" height="350"></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/56976049/184529148-8fe91d60-2388-4561-ade8-b01e04e354c2.png" width="400" height="350"></td>
   </tr>
   <tr>
     <td>Chess</td>
-    <td><img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/503/536/datas/gallery.jpg" width="400" height="350"></td>
+    <td align="center"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/503/536/datas/gallery.jpg" width="400" height="350"></td>
   </tr>
 </table>
 
