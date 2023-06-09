@@ -3,7 +3,7 @@
 ![Thumbnail](images/devpost-thumbnail.png)
 
 ## Inspiration
-Once upon a time, a village is invaded by an extraterrestrial robot, Galatron. Upon leaving, he took away the most valuable things in the village, board games. While the inhabitants of the village are filled with sadness, a brave warrior named Ryu has decided to step up and go on a quest to bring back the games. To do that, he needs to beat Galatron in four famous board games on planet Xamos, Opus, Icrozar and Duex respectively. Let’s see if he can beat the robots! 
+Once upon a time, a village is invaded by an extraterrestrial robot, Galatron. Upon leaving, he took away the most valuable things in the village, board games. While the inhabitants of the village are filled with sadness, a brave warrior named Ryu has decided to step up and go on a quest to bring back the games. To do that, he needs to beat Galatron in four famous board games on planet Xamos, Opus, Icrozar and Duex resp. Let’s see if he can beat the robots! 
 
 ## What it does
 
@@ -11,7 +11,7 @@ Our protagonist Ryu has to go to the planets Opus, Duex, Xamos, and Icrozar to b
 
 ## How we built it
 
-The application has been designed using elementary tools of Web Development like HTML,CSS and JavaScript to design the Frontend. All the games have been developed using JavaScript and jQuery.
+The application has been designed using elementary tools of Web Development like HTML,CSS and JavaScript to design the Frontend. All the games have been developed using jQuery and JavaScript.
 
 ## Challenges we ran into
 
@@ -56,7 +56,7 @@ We got lot of exposure in Game Development using JavaScript
 
 ## What's next for Ryu's Conquest
 
-We believe that this Project possesses tremendous potential and can be taken forward. Time Clock can be added along with escalation in game difficulties. Also we need not restrict ourselves to only four planets and incorporate new games. 
+We believe that this Project possesses tremendous potential and can be taken forward. We can add Time Clock along with escalation in game difficulties for enhancing user experience. Also we need not restrict ourselves to only four planets and incorporate new games. 
 
 ## Tech Stack
 <code><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png"></code>
