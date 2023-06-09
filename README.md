@@ -50,7 +50,7 @@ We got lot of exposure in Game Development using JavaScript
   </tr>
   <tr>
     <td>Chess</td>
-    <td><img src="https://user-images.githubusercontent.com/56976049/184529152-2e863339-1551-41b0-a349-892a6141ac36.png" width="400" height="350"></td>
+    <td><img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/503/536/datas/gallery.jpg" width="400" height="350"></td>
   </tr>
 </table>
 
@@ -58,12 +58,12 @@ We got lot of exposure in Game Development using JavaScript
 
 We believe that this Project possesses tremendous potential and can be taken forward. Time Clock can be added along with escalation in game difficulties. Also we need not restrict ourselves to only four planets and incorporate new games. 
 
-## Process to use
+## How to Use?
 1. Clone the repository using `git clone https://github.com/akshatsood2026/Snakes-and-Hackers-II.git`
 2. `cd Snakes-and-Hackers-II`
 3. Execute index.html in your browser
 
-## Techstack
+## Tech Stack
 <code><img height="100" src="https://freeiconshop.com/wp-content/uploads/edd/html-outline.png"></code>
 <code><img height="100" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
 <code><img height="100" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"></code>
