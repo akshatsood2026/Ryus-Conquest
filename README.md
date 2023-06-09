@@ -58,12 +58,7 @@ We got lot of exposure in Game Development using JavaScript
 
 We believe that this Project possesses tremendous potential and can be taken forward. Time Clock can be added along with escalation in game difficulties. Also we need not restrict ourselves to only four planets and incorporate new games. 
 
-## How to Use?
-1. Clone the repository using `git clone https://github.com/akshatsood2026/Snakes-and-Hackers-II.git`
-2. `cd Snakes-and-Hackers-II`
-3. Execute index.html in your browser
-
 ## Tech Stack
-<code><img height="100" src="https://freeiconshop.com/wp-content/uploads/edd/html-outline.png"></code>
+<code><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="100" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
 <code><img height="100" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"></code>
