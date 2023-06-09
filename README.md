@@ -3,28 +3,27 @@
 ![Thumbnail](images/devpost-thumbnail.png)
 
 ## Inspiration
-
-Once upon a time, a village is invaded by an army of malevolent robots. Upon leaving, they took away the most valuable things in the world, games. While the inhabitants of the village were filled with sadness, a brave warrior named Ryu has decided to step up and go on a quest to bring back the games. To do that, he need to beat the robots in four famous games on planet Xamos, Opus, Icrozar and Duex, respectively. Let’s see if he can beat the robots!
+Once upon a time, a village is invaded by an extraterrestrial robot, Galatron. Upon leaving, he took away the most valuable things in the village, board games. While the inhabitants of the village are filled with sadness, a brave warrior named Ryu has decided to step up and go on a quest to bring back the games. To do that, he needs to beat Galatron in four famous board games on planet Xamos, Opus, Icrozar and Duex respectively. Let’s see if he can beat the robots! 
 
 ## What it does
 
-Web Application drive you through retro games one by one in order of increasing difficulties.
+Our protagonist Ryu has to go to the planets Opus, Duex, Xamos, and Icrozar to beat Galatron in Tic-Tac-Toe, Breakout, Connect 4, and Chess respectively in order to retrieve the stolen board games. 
 
 ## How we built it
 
-Application has been designed using elementary tools of Web Development like HTML,CSS and JavaScript to design the Frontend. All the games have been developed using JavaScript and jQuery. It has been document on GitHub and hosted using GitHub Pages
+The application has been designed using elementary tools of Web Development like HTML,CSS and JavaScript to design the Frontend. All the games have been developed using JavaScript and jQuery.
 
 ## Challenges we ran into
 
-At first we were focused on putting all games on the same page but due to some issues we had to redirect them.
+At first, we thought of having a single webpage that showed and hid the games we chose to play. This proved to be problematic due to numerous problems like overlapping variables.
 
 ## Accomplishments that we're proud of
 
-We were successful in developing a Web Application and feel proud in bringing our thoughts to reality. It was a golden opportunity to network with people from different time zones coming together to develop a project.
+We were successful in developing a Web Application and proud of bring our thoughts to reality. 
 
 ## What we learned
 
-We got a lot of exposure in Game Development using JavaScript. Also we documented our project on GitHub ensuring best practices are followed. 
+We got lot of exposure in Game Development using JavaScript
 
 ## Screenshots
 
@@ -57,7 +56,7 @@ We got a lot of exposure in Game Development using JavaScript. Also we documente
 
 ## What's next for Ryu's Conquest
 
-We believe that this Project possesses tremendous potential and can be taken forward. Time Clock can be added along with escalation in game difficulties. Also we need not restrict to only 4 planets and incorporate new games spanning numerous categories. As a future work we can work upon adding multiplayer and chat capabilities to enhance robustness of the project.
+We believe that this Project possesses tremendous potential and can be taken forward. Time Clock can be added along with escalation in game difficulties. Also we need not restrict ourselves to only four planets and incorporate new games. 
 
 ## Process to use
 1. Clone the repository using `git clone https://github.com/akshatsood2026/Snakes-and-Hackers-II.git`
