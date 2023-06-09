@@ -5,7 +5,7 @@
 ## Inspiration
 Once upon a time, a village is invaded by an extraterrestrial robot, Galatron. Upon leaving, he took away the most valuable things in the village, board games. While the inhabitants of the village are filled with sadness, a brave warrior named Ryu has decided to step up and go on a quest to bring back the games. To do that, he needs to beat Galatron in four famous board games on planet Xamos, Opus, Icrozar and Duex resp. Let’s see if he can beat the robots! 
 
-## What it does
+## Problem Statement
 
 Our protagonist Ryu has to go to the planets Opus, Duex, Xamos, and Icrozar to beat Galatron in Tic-Tac-Toe, Breakout, Connect 4, and Chess respectively in order to retrieve the stolen board games. 
 
