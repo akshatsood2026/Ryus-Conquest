@@ -9,7 +9,7 @@ Once upon a time, a village is invaded by an extraterrestrial robot, Galatron. U
 
 Our protagonist Ryu has to go to the planets Opus, Duex, Xamos, and Icrozar to beat Galatron in Tic-Tac-Toe, Breakout, Connect 4, and Chess respectively in order to retrieve the stolen board games. 
 
-## How we built it
+## Tech Stack
 
 The application has been designed using elementary tools of Web Development like HTML,CSS and JavaScript to design the Frontend. All the games have been developed using jQuery and JavaScript.
 <br><br>
